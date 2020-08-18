@@ -1,0 +1,51 @@
+{  
+    "projects": [
+
+	{  
+        "id": "1",   
+        "project_name": "A random Quote Generator"      ,   
+        "description":   "A set of random quotes from my favorite movie of all time",
+	"technologies": "Vamilla Javascript",
+	"live_link": "https://p32nicky.github.io/A-random-Quote-Generator/",
+	"github_link": "https://github.com/p32nicky/A-random-Quote-Generator" ,
+	"image_urls": 
+
+    }, {  
+        "id": "2",   
+        "project_name": "Page Pagination with dummmy user data" ,   
+        "description":  "Page Pagination with dummmy user data" ,
+	"technologies": Vamilla Javascript",
+	"live_link": ,"https://p32nicky.github.io/Project2/"
+	"github_link": "https://github.com/p32nicky/Project2",
+	"image_urls": 
+
+    }, {  
+        "id": "3",   
+        "project_name": "Unit-3-Interactive-Form-Project"     ,   
+        "description":   "An interactive form page",
+	"technologies": Vamilla Javascript",
+	"live_link": "https://p32nicky.github.io/Unit-3-Interactive-Form-Project/",
+	"github_link": "https://github.com/p32nicky/Unit-3-Interactive-Form-Project",
+	"image_urls": 
+
+    } , {  
+        "id": "4",   
+        "project_name": "Memory Matching Game",   
+        "description":  "A fun memory matching game - Pick the pairs correct and win",
+	"technologies": Vamilla Javascript",
+	"live_link":  "https://p32nicky.github.io/Memory-Game/",
+	"github_link": "https://github.com/p32nicky/Memory-Game",
+	"image_urls": 
+
+    }, {  
+        "id": "5",   
+        "project_name": "Project-5-Public-API-Requests"     ,   
+        "description":   "Using Dummy User Data API to pull in users and create a mock company directory with modals",
+	"technologies": Vamilla Javascript",
+	"live_link": "https://p32nicky.github.io/Project-5-Public-API-Requests/",
+	"github_link": "https://github.com/p32nicky/Project-5-Public-API-Requests" ,
+	"image_urls": 
+
+    }
+	]	 
+}  
