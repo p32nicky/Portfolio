@@ -148,3 +148,10 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

@@ -1,0 +1,52 @@
+{
+
+	"projects": [{
+		"id": 0,
+		"project_name": "A Random Quote Generator",
+		"description": "A set of random quotes from my favorite movie of all time",
+		"technologies": "Vanilla Javascript",
+		"live_link": "https://p32nicky.github.io/A-random-Quote-Generator/",
+		"github_link": "https://github.com/p32nicky/A-random-Quote-Generator",
+		"image_urls": ["/static/images/rq1.jpg", "/static/images/rq2.jpg"]
+
+	}, {
+		"id": 1,
+		"project_name": "Page Pagination Project",
+		"description": "Page Pagination with dummmy user data",
+		"technologies": "Vanilla Javascript",
+		"live_link": "https://p32nicky.github.io/Project2/",
+		"github_link": "https://github.com/p32nicky/Project2",
+		"image_urls": ["/static/images/pp1.jpg", "/static/images/pp2.jpg"]
+
+	}, {
+		"id": 2,
+		"project_name": "Making A Custom Interative Form",
+		"description": "An interactive form page",
+		"technologies": "Vanilla Javascript",
+		"live_link": "https://p32nicky.github.io/Unit-3-Interactive-Form-Project/",
+		"github_link": "https://github.com/p32nicky/Unit-3-Interactive-Form-Project",
+		"image_urls": ["/static/images/if1.jpg", "/static/images/if2.jpg"]
+
+	}, {
+		"id": 3,
+		"project_name": "Memory Matching Game",
+		"description": "A fun memory matching game - Pick the pairs correct and win",
+		"technologies": "Vanilla Javascript",
+		"live_link": "https://p32nicky.github.io/Memory-Game/",
+		"github_link": "https://github.com/p32nicky/Memory-Game",
+		"image_urls": ["/static/images/mm1.jpg", "/static/images/mm2.jpg"]
+
+	}, {
+		"id": 4,
+		"project_name": "Using APIs to Pull Dummy User Data",
+		"description": "Using Dummy User Data API to pull in users and create a mock company directory with modals",
+		"technologies": "Vanilla Javascript",
+		"live_link": "https://p32nicky.github.io/Project-5-Public-API-Requests/",
+		"github_link": "https://github.com/p32nicky/Project-5-Public-API-Requests",
+		"image_urls": ["/static/images/api1.jpg", "/static/images/api2.jpg"]
+
+	}]
+
+
+
+}
