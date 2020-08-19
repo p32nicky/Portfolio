@@ -1,14 +1,21 @@
 const express = require('express');
 const app = express();
 const createError = require('http-errors')
-const indexRoute = require("./routes/index")
+const { projects } = require("./data.json");
 
 
 app.set('view engine', 'pug');
 
 app.use("/static", express.static("public"));
-app.use(indexRoute);
+app.get("/", (req, res) => {
+  res.render("index", { projects });
+});
 
+app.get("/projects/:id", (req, res) => {
+  const projectId = req.params.id;
+  const project = projects[projectId];
+  res.render("project", { project });
+});
 
 app.use((req, res, next) => {
   const err = new Error('Page Not Found');
