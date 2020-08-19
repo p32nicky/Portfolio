@@ -3,47 +3,47 @@
 	"projects": [{
 		"id": 0,
 		"project_name": "A Random Quote Generator",
-		"description": "A set of random quotes from my favorite movie of all time",
-		"technologies": "Vanilla Javascript",
+		"description": "Practice your knowledge of basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.",
+		"technologies": ["Vanilla Javascript", " HTML", " CSS"],
 		"live_link": "https://p32nicky.github.io/A-random-Quote-Generator/",
 		"github_link": "https://github.com/p32nicky/A-random-Quote-Generator",
-		"image_urls": ["/static/images/rq1.jpg", "/static/images/rq2.jpg"]
+		"image_urls": ["/static/images/rq1.jpg", "/static/images/rq2.jpg", "/static/images/rq3.jpg"]
 
 	}, {
 		"id": 1,
 		"project_name": "Page Pagination Project",
-		"description": "Page Pagination with dummmy user data",
-		"technologies": "Vanilla Javascript",
+		"description": "Displaying a long list of items on a web page, like a list of 200 movie titles or 400 products, can overwhelm a user with too much information at once. A common solution is to display a handful of items on one page and provide navigation to jump to a list of more items. In this project, you'll write JavaScript to divide a long list into a series of 'pages' and improve the user experience of a web page.",
+		"technologies": ["Vanilla Javascript", " HTML", " CSS"],
 		"live_link": "https://p32nicky.github.io/Project2/",
 		"github_link": "https://github.com/p32nicky/Project2",
-		"image_urls": ["/static/images/pp1.jpg", "/static/images/pp2.jpg"]
+		"image_urls": ["/static/images/pp1.jpg", "/static/images/pp2.jpg", "/static/images/pp3.jpg"]
 
 	}, {
 		"id": 2,
 		"project_name": "Making A Custom Interative Form",
-		"description": "An interactive form page",
-		"technologies": "Vanilla Javascript",
+		"description": "Full Stack JavaScript developers create forms to collect information from users for nearly every website and application they build. For this project, you’ll use your skills to enhance a form so that it’s engaging, interactive, and easy to use.",
+		"technologies": ["Vanilla Javascript", " HTML", " CSS"],
 		"live_link": "https://p32nicky.github.io/Unit-3-Interactive-Form-Project/",
 		"github_link": "https://github.com/p32nicky/Unit-3-Interactive-Form-Project",
-		"image_urls": ["/static/images/if1.jpg", "/static/images/if2.jpg"]
+		"image_urls": ["/static/images/if1.jpg", "/static/images/if2.jpg", "/static/images/if3.jpg"]
 
 	}, {
 		"id": 3,
 		"project_name": "Memory Matching Game",
 		"description": "A fun memory matching game - Pick the pairs correct and win",
-		"technologies": "Vanilla Javascript",
+		"technologies": ["Vanilla Javascript", " HTML", " CSS"],
 		"live_link": "https://p32nicky.github.io/Memory-Game/",
 		"github_link": "https://github.com/p32nicky/Memory-Game",
-		"image_urls": ["/static/images/mm1.jpg", "/static/images/mm2.jpg"]
+		"image_urls": ["/static/images/mm1.jpg", "/static/images/mm2.jpg", "/static/images/mm3.jpg"]
 
 	}, {
 		"id": 4,
-		"project_name": "Using APIs to Pull Dummy User Data",
-		"description": "Using Dummy User Data API to pull in users and create a mock company directory with modals",
-		"technologies": "Vanilla Javascript",
+		"project_name": "Using API's to Pull Dummy User Data",
+		"description": "Many sites — Twitter, Facebook, IMDB, and Wikipedia to name a few — offer a vast sea of data that you can access and display on your own web pages. Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
+		"technologies": ["Vanilla Javascript", " HTML", " CSS"],
 		"live_link": "https://p32nicky.github.io/Project-5-Public-API-Requests/",
 		"github_link": "https://github.com/p32nicky/Project-5-Public-API-Requests",
-		"image_urls": ["/static/images/api1.jpg", "/static/images/api2.jpg"]
+		"image_urls": ["/static/images/api1.jpg", "/static/images/api2.jpg", "/static/images/api3.jpg"]
 
 	}]
 
