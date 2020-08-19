@@ -20,7 +20,7 @@
 
 	}, {
 		"id": 2,
-		"project_name": "Making A Custom Interative Form",
+		"project_name": "Custom Interative Form",
 		"description": "Full Stack JavaScript developers create forms to collect information from users for nearly every website and application they build. For this project, you’ll use your skills to enhance a form so that it’s engaging, interactive, and easy to use.",
 		"technologies": ["Vanilla Javascript", " HTML", " CSS"],
 		"live_link": "https://p32nicky.github.io/Unit-3-Interactive-Form-Project/",
@@ -38,7 +38,7 @@
 
 	}, {
 		"id": 4,
-		"project_name": "Using API's to Pull Dummy User Data",
+		"project_name": "Using API's",
 		"description": "Many sites — Twitter, Facebook, IMDB, and Wikipedia to name a few — offer a vast sea of data that you can access and display on your own web pages. Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
 		"technologies": ["Vanilla Javascript", " HTML", " CSS"],
 		"live_link": "https://p32nicky.github.io/Project-5-Public-API-Requests/",

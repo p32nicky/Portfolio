@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const createError = require('http-errors')
 const { projects } = require("./data.json");
-
+const js = "/images/js.png"
 app.set('view engine', 'pug');
 
 app.use("/static", express.static("public"));
