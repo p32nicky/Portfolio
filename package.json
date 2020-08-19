@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/p32nicky/Project-6---Static-Node.js-and-Express-Site.git"
   },
+  "engines": {
+	"node":14.8.0
+},
   "author": "Nick Davies",
   "license": "ISC",
   "bugs": {
