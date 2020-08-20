@@ -1,5 +1,4 @@
 # Project-6---Static-Node.js-and-Express-Site - Nick Davies Full Stack Development Portfolio
- Project-6---Static-Node.js-and-Express-Site - Portfolio Site
  
  I went for the exceed expectations grade for this project:
  Running npm start serves the app. I included a custom error page which shows easy to read details with a fun 404 error gif.
