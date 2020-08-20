@@ -3,7 +3,7 @@
  
  I went for the exceed expectations grade for this project:
  Running npm start serves the app. I included a custom error page which shows easy to read details with a fun 404 error gif.
- Next update I want to write will replace technlogies with icons for that technology.
+ Next update I want to code replacing technlogies with icons for that technology.
 
 So far you've worked with a lot of "client-side" JavaScript. Which is just an industry way of saying JavaScript in the browser. All of the JavaScript you've written for the first five projects in this Techdegree is run right in the browser. Now it's time to continue your journey out of the browser and start writing some powerful "server-side" JavaScript.
 
