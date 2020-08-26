@@ -50,9 +50,9 @@
 		"project_name": "Practice React Component Rendering ",
 		"description": "Sharpen your React skills by practicing JSX, creating and rendering components, passing down props, as well as iterating over data, and more.",
 		"technologies": ["React Javascript", " HTML", " CSS"],
-		"live_link": "https://github.com/p32nicky/React-Planets",
-		"github_link": "https://github.com/p32nicky/Project-5-Public-API-Requests",
-		"image_urls": ["/static/images/planet1.jpg", "/static/images/planet2.jpg", "/static/images/planet3.jpg"]
+		"live_link": "https://p32nicky.github.io/React-Planets/",
+		"github_link": "https://github.com/p32nicky/React-Planets",
+		"image_urls": ["/static/images/planet3.jpg", "/static/images/planet2.jpg"]
 
 	}]
 
